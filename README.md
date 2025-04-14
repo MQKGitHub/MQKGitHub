@@ -19,13 +19,13 @@ I'm an aspiring Cyber Security professional based in the UK, currently focused o
 - **Skills in Progress:** Network scanning, vulnerability assessment, privilege escalation, OSINT
 
 ---
-
 ## 📁 My Portfolio (WIP)
 
 Check out some of the work I’m doing:
-- [TryHackMe Room Writeups](#) *(Link to your repo)*
 
-> *Everything I learn gets written down — not just for me, but to share with others who are starting their journey too.*
+- 🔗 [Learning Through TryHackMe](https://github.com/MQKGitHub/learning-through-tryhackme) — My writeups, notes, and reflections from hands-on learning
+
+> Everything I learn gets written down — not just for me, but to share with others who are starting their journey too.
 
 ---
 
