@@ -39,14 +39,6 @@ Check out some of the work I’m doing:
 
 ---
 
-## 📬 Get in Touch
-
-Want to connect?
-
-- 📧 Email: mohammed.q.khan@gmail.com *(optional)*
-
----
-
 > “Start where you are. Use what you have. Do what you can.” — You're doing great.
 
 
