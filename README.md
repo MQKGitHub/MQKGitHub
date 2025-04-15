@@ -25,8 +25,6 @@ Check out some of the work I’m doing:
 
 - 🔗 [Learning Through TryHackMe](https://github.com/MQKGitHub/learning-through-tryhackme) — My writeups, notes, and reflections from hands-on learning
 
-> Everything I learn gets written down — not just for me, but to share with others who are starting their journey too.
-
 ---
 
 ## 🎯 Goals for 2025
@@ -38,10 +36,6 @@ Check out some of the work I’m doing:
 - 📂 Keep growing this GitHub portfolio
 
 ---
-
-> “Start where you are. Use what you have. Do what you can.” — You're doing great.
-
-
 
 <!--
 **MQKGitHub/MQKGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
