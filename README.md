@@ -6,7 +6,7 @@ I'm an aspiring Cyber Security professional based in the UK, currently focused o
 
 ## 🧠 What I'm Working On
 
-- 📚 Learning day-by-day with hands-on labs from **TryHackMe** (18+ day streak and counting!)
+- 📚 Learning day-by-day with hands-on labs from **TryHackMe**
 - 💡 Exploring cyber security fundamentals: networking, Windows/Linux systems, vulnerabilities
 - 🔐 Building up a portfolio of projects and notes to document my progress
 
