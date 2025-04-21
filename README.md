@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mohammed Q Khan  
+## 👋 Hi, I’m Mohammed Q Khan  
 
 I'm an aspiring Cyber Security professional based in the UK, currently focused on building strong foundations in ethical hacking, system security, and networking. My journey into cyber security began with a drive to support and protect my family’s future — and now I’m proud to say I’m learning more every day.
 
