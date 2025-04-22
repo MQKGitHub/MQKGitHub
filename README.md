@@ -4,7 +4,7 @@ I'm an aspiring Cyber Security professional based in the UK, currently focused o
 
 ---
 
-## 🧠 What I'm Working On
+### 🧠 What I'm Working On
 
 - 📚 Learning day-by-day with hands-on labs from **TryHackMe**
 - 💡 Exploring cyber security fundamentals: networking, Windows/Linux systems, vulnerabilities
@@ -12,14 +12,14 @@ I'm an aspiring Cyber Security professional based in the UK, currently focused o
 
 ---
 
-## 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 
 - **Operating Systems:** Linux (Kali), Windows
 - **Tools I am learning about:** Nmap, Burp Suite, Wireshark, Hydra, Metasploit, Gobuster
 - **Skills in Progress:** Network scanning, vulnerability assessment, privilege escalation, OSINT
 
 ---
-## 📁 My Portfolio (WIP)
+### 📁 My Portfolio (WIP)
 
 Check out some of the work I’m doing:
 
@@ -27,7 +27,7 @@ Check out some of the work I’m doing:
 
 ---
 
-## 🎯 Goals for 2025
+### 🎯 Goals for 2025
 
 - ✅ Stay consistent with learning daily  
 - ⏳ Complete TryHackMe Pre-Security first, then as many other paths as possible  
